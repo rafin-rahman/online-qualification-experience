@@ -87,4 +87,4 @@ For more details, please refer to the project documentation or contact me direct
 
 - **Name**: Rafin Rahman
 - **Email**: ra-fin@live.com
-- **LinkedIn**: [[Your LinkedIn Profile]](http://linkedin.com/in/rafin-rahman/)
+- **LinkedIn**: [LinkedIn](http://linkedin.com/in/rafin-rahman/)
